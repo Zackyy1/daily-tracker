@@ -1,10 +1,7 @@
 import React from 'react';
-import Test from './components/test/Test';
 
 function App() {
-  return <div className="App">
-    <Test />
-  </div>;
+  return <div className="App">hehe</div>;
 }
 
 export default App;
